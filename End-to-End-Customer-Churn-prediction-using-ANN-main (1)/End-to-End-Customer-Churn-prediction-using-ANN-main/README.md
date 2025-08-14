@@ -98,4 +98,4 @@ Model input transformation using saved encoders
 📊 Metrics: accuracy 🎯
 
 ## 📩 Contact
-📧 Shiva Prasad Naroju - shivanaroju26@gmail.com
+📧 Shivani Naroju - shivaninaroju1@gmail.com
